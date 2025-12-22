@@ -3,7 +3,7 @@
 This is my personal portfolio as a **Junior Full Stack Developer** specialized in **Nuxt (SSR)** and **Django**.
 
 ## Live Website
-🔗 https://TU_URL.netlify.app
+🔗 https://davidcantorportfolio.netlify.app
 
 ## Main Stack
 - Nuxt (SSR)
