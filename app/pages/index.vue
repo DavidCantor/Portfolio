@@ -1,5 +1,9 @@
 <template>
   <div>
+    <Head>
+      <Title>David Cantor | Full Stack Developer</Title>
+    </Head>
+
     <Hero />
     <About />
     <Projects />
@@ -9,9 +13,6 @@
 </template>
 
 <script setup>
-import Hero from '~/components/Hero.vue'
-import About from '~/components/About.vue'
-import Projects from '~/components/Projects.vue'
-import Services from '~/components/Services.vue'
-import Contact from '~/components/Contact.vue'
+// En Nuxt 4 NO necesitas imports para componentes ni layouts.
+// ¡Todo es automático!
 </script>
